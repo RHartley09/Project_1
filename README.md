@@ -27,10 +27,10 @@ Datasets:
 
 Tasks:
 
-Abdulla – Development Requirements Manager
+  Abdulla – Development Requirements Manager
 
-Alex – Presentation Manager
+  Alex – Presentation Manager
 
-Robert – GitHub Repository Manager
+  Robert – GitHub Repository Manager
 
-Jake – Data Steward
+  Jake – Data Steward
